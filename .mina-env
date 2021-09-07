@@ -1,0 +1,2 @@
+CODA_PRIVKEY_PASS=z8llWGLKm8oFNk03fHGue2jzwJgExOMImOZmSuFNMtCsP03byMp2Ty1bUgMDGbJR
+EXTRA_FLAGS=" --file-log-level Debug --metrics-port 9180"
